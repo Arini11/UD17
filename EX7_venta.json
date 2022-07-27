@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "62e116accc9286627dfe0225"
+  },
+  "cajero": 2,
+  "maquina": 1,
+  "producto": 1
+},{
+  "_id": {
+    "$oid": "62e116accc9286627dfe0226"
+  },
+  "cajero": 1,
+  "maquina": 2,
+  "producto": 2
+}]
