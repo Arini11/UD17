@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "62e11d4fcc9286627dfe0227"
+  },
+  "dniInvest": "36559988G",
+  "numSerieEquipo": "1A",
+  "comienzo": "2022-07-27",
+  "fin": "2022-07-30"
+},{
+  "_id": {
+    "$oid": "62e11d4fcc9286627dfe0228"
+  },
+  "dniInvest": "54992647T",
+  "numSerieEquipo": "1B",
+  "comienzo": "2022-04-01",
+  "fin": "2022-10-01"
+}]
