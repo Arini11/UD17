@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "62e10fac10397deaa2e5ea90"
+  },
+  "Nombre": "Retrovisor"
+},{
+  "_id": {
+    "$oid": "62e10fc910397deaa2e5ea91"
+  },
+  "Nombre": "Volante"
+},{
+  "_id": {
+    "$oid": "62e10fe010397deaa2e5ea92"
+  },
+  "Nombre": "Freno"
+}]

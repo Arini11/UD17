@@ -1,0 +1,15 @@
+[{
+  "_id": 1050,
+  "_idCodigoPieza": {
+    "$oid": "62e10fac10397deaa2e5ea90"
+  },
+  "_idProveedor": "PR02",
+  "Precio": 120
+},{
+  "_id": 1020,
+  "_idCodigoPieza": {
+    "$oid": "62e10fac10397deaa2e5ea91"
+  },
+  "_idProveedor": "PR01",
+  "Precio": 180
+}]

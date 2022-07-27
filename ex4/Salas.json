@@ -1,0 +1,9 @@
+[{
+  "_id": "SAL01",
+  "Nombre": "SALA 1",
+  "Pelicula": "PEL01"
+},{
+  "_id": "SAL012",
+  "Nombre": "SALA 12",
+  "Pelicula": "PEL05"
+}]
